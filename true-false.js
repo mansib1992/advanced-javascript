@@ -1,7 +1,16 @@
+// False
+
+// false
 // 0
 // "";
 // undifined
 // null
+// NaN
+
+// True
+// "0" " "
+// [] faka array {} faka object
+
 let name = NaN;
 console.log(name);
 if(name){
